@@ -417,7 +417,6 @@
     "webpack-cli": "^4.10.0"
   },
   "scripts": {
-    "test": "jest --coverage",
     "build": "webpack --mode production",
     "lint": "eslint ."
   },
